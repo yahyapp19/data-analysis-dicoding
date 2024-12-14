@@ -1,1 +1,1 @@
-# data-analysis-dicoding
+conda create -n da-env python=3.11
